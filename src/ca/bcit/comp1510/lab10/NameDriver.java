@@ -3,7 +3,7 @@ package ca.bcit.comp1510.lab10;
 import java.util.ArrayList;
 
 /**
- * 
+ * Test the Name class and sorting its list.
  * @author Junsang(Jason) Yoo
  * @version 2021
  *
@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class NameDriver {
 
     /**
-     * Drives the program
+     * Drives the program.
      * @param args unused
      */
     public static void main(String[] args) {
